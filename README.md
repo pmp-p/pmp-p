@@ -5,7 +5,10 @@ to get the artifacts for all android architectures ( 1.3GiB download ).
 
 Once done with that you can seek for help on #Panda3D freenode irc (quick answer) or discord ( ymmv ).
 
-Note : all pip modules compiled via pydk are ABI compatible with P4A from kivy.
+Note : *all* pip modules compiled via pydk are ABI compatible with P4A from kivy/beeware packaging because it's CPython out of the box too.
+ ** But you'll have to figure out how to load them by yourself and how to deal with API levels baseline. **
+
+PyDK is for everyone and that means starting at API19 for me, keep and use your old tablets for education !
 
 - For others well everything here is very experimental, async, unthreaded and Python centric.
 
