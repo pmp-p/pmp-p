@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 
 
-- 👯 I’m looking to collaborate on C-Python ® for WebAssembly
+- Looking for collaboration on C-Python ® for WebAssembly, or alternatives
