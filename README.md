@@ -12,6 +12,14 @@ PyDK is for everyone and that means starting at API19 for me, keep and use your 
 
 - For others well everything here is very experimental, async, unthreaded and Python centric.
 
+
+- Looking for collaboration on C-Python ® for WebAssembly, or alternatives
+
+
+Already collaborated on :
+* [Light and Versatile Graphics Library][lvgl] Micropython simulator
+
+
 <!--
 **pmp-p/pmp-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,12 +38,11 @@ Here are some ideas to get you started:
 
 
 
+[Brave Tip shortcut][tip]
+
+
+[tip]: https://github.com/pmp-p/pmp-p/issues/1
+[lvgl]: https://sim.lvgl.io/v7/micropython/ports/javascript/bundle_out/index.html
 
 
 
-
-
-
-
-
-- Looking for collaboration on C-Python ® for WebAssembly, or alternatives
