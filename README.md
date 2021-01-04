@@ -15,6 +15,9 @@ PyDK is for everyone and that means starting at API19 for me, keep and use your 
 
 - Looking for collaboration on C-Python ® for WebAssembly, or alternatives
 
+Come and share  ! 
+https://gitter.im/Wasm-Python/community
+
 ----
 
 Already collaborated on :
