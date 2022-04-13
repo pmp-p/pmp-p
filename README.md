@@ -26,6 +26,11 @@ Already collaborated on :
 
 ----
 
+Currently porting Pygame to Webassembly https://github.com/pygame/pygame/issues/718
+
+----
+
+
 [Brave Tip shortcut][tip]
 
 
