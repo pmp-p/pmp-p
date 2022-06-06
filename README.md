@@ -28,13 +28,19 @@ Already collaborated on :
 
 Currently porting Pygame to Webassembly https://github.com/pygame/pygame/issues/718
 
+Admin of http://github.com/pygame-web 
+
+Creator of Pygbag https://pypi.org/project/pygbag
+
 ----
 
 
 [Brave Tip shortcut][tip]
 
+[Direct support] [pat]
 
 [tip]: https://github.com/pmp-p/pmp-p/issues/1
+[pat]: https://www.patreon.com/pmpp
 [lvgl]: https://sim.lvgl.io/v7/micropython/ports/javascript/bundle_out/index.html
 
 
