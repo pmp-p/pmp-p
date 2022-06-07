@@ -37,7 +37,8 @@ Creator of Pygbag https://pypi.org/project/pygbag
 
 [Brave Tip shortcut][tip]
 
-[Direct support] [pat]
+[Direct support patreon][pat]
+
 
 [tip]: https://github.com/pmp-p/pmp-p/issues/1
 [pat]: https://www.patreon.com/pmpp
