@@ -26,11 +26,11 @@ Already collaborated on :
 
 ----
 
-Currently porting Pygame to Webassembly https://github.com/pygame/pygame/issues/718
+Currently porting pygame to Webassembly https://github.com/pygame/pygame/issues/718
 
 Admin of http://github.com/pygame-web 
 
-Creator of Pygbag https://pypi.org/project/pygbag
+Creator of pygbag https://pypi.org/project/pygbag
 
 ----
 
