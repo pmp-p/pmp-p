@@ -34,11 +34,11 @@ Creator of pygbag https://pypi.org/project/pygbag
 
 ----
 
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=pmp-p&theme=dark&hide_border=1&show_icons=true)
 
 [Brave Tip shortcut][tip]
 
 [Direct support patreon][pat]
-
 
 [tip]: https://github.com/pmp-p/pmp-p/issues/1
 [pat]: https://www.patreon.com/pmpp
