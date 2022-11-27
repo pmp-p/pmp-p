@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there !
 
 NOTE : pydk for python+webassembly is getting obsoleted by pygbag which will allow soon to load pygame/Harfang3D/Panda3d CPython wheels directly from http servers.
 
@@ -40,12 +40,16 @@ Creator of pygbag https://pypi.org/project/pygbag
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=pmp-p&theme=dark&hide_border=1&show_icons=true)
 
+
 [Brave Tip shortcut][tip]
 
 [Direct support patreon][pat]
 
+[opencollective][oc]
+
 [tip]: https://github.com/pmp-p/pmp-p/issues/1
 [pat]: https://www.patreon.com/pmpp
+[oc]:https://opencollective.com/pythonseverywhere
 [lvgl]: https://sim.lvgl.io/v7/micropython/ports/javascript/bundle_out/index.html
 
 
