@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+NOTE : pydk for python+webassembly is getting obsoleted by pygbag which will allow soon to load pygame/Harfang3D/Panda3d CPython wheels directly from http servers.
+
 - For those coming here to *use* Panda3D/CPython on android and browser, you need to clone PyDK and trigger the Github action CI
 to get the artifacts for all android architectures ( ~400 MiB download ).
 
@@ -26,7 +28,8 @@ Already collaborated on :
 
 ----
 
-Currently porting pygame to Webassembly https://github.com/pygame/pygame/issues/718
+Currently porting pygame to Webassembly : https://github.com/pygame/pygame/issues/718
+Currently porting Harfang3D to Webassembly : https://github.com/harfang3d/harfang-wasm
 
 Admin of http://github.com/pygame-web 
 
