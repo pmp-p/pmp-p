@@ -47,11 +47,12 @@ Creator of pygbag https://pypi.org/project/pygbag
 
 <a href="https://paypal.me/pmpp" target="_blank"><img src="https://img.shields.io/static/v1?logo=paypal&label=&message=donate&color=slategrey"></a> for 🍻 🍺
 
-[opencollective][oc] for long run porting effort
+[opencollective][oc] for long run porting effort, not only wasm but native too !
 
 
-[Direct support patreon][pat]
-[Brave Tip shortcut][tip]
+[Direct support patreon][pat] if you want support for educative tools
+
+[Brave Tip shortcut][tip] if you'd like to see some Web3+python someday
 
 
 [tip]: https://github.com/pmp-p/pmp-p/issues/1
