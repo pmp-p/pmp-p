@@ -17,7 +17,7 @@ If you only want to support recent Android and their store then use Kivy/Beeware
 
 - Everything here is very experimental, async, unthreaded and Python centric.
 
-- I'm not interested in concurrency except when it leads to better handling of paralallelism.
+- I'm not interested in concurrency except when it leads to better handling of parallelism (subinterpreters-multicore/distributed computing).
 
 - Looking for collaboration on CPython for WebAssembly, or soft-realtime Python alternatives (including trasnpilation).
 
