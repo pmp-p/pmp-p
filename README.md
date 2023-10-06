@@ -32,7 +32,7 @@ Already collaborated on :
 
 ----
 
-Currently porting pygame to Webassembly : https://github.com/pygame/pygame/issues/718
+Currently porting pygame-ce to Webassembly : https://github.com/pygame-community/pygame-ce/issues/540
 
 Currently porting Harfang3D to Webassembly : https://github.com/harfang3d/harfang-wasm
 
