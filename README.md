@@ -58,7 +58,7 @@ Creator of pygbag https://pypi.org/project/pygbag
 [tip]: https://github.com/pmp-p/pmp-p/issues/1
 [pat]: https://www.patreon.com/pmpp
 [oc]:https://opencollective.com/pythonseverywhere
-[lvgl]: https://sim.lvgl.io/v9.0/micropython/ports/webassembly/index.html
+[lvgl]: https://sim.lvgl.io/v7/micropython/ports/javascript/bundle_out/index.html
 
 
 
